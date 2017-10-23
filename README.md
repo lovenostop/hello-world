@@ -8,5 +8,4 @@ hhhhhhh
 
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-这里是b2
 gyx要修改
